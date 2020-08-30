@@ -1,0 +1,107 @@
+{
+    "todo-tree.tree.showScanModeButton": false,
+    "[dart]": {
+        "editor.formatOnSave": true,
+        "editor.formatOnType": true,
+        "editor.rulers": [
+            80
+        ],
+        "editor.selectionHighlight": false,
+        "editor.suggest.snippetsPreventQuickSuggestions": false,
+        "editor.suggestSelection": "first",
+        "editor.tabCompletion": "onlySnippets",
+        "editor.wordBasedSuggestions": false
+    },
+    "workbench.colorCustomizations": {
+    
+    
+
+
+        "statusBar.debuggingForeground": "#ffffff",
+        "statusBar.debuggingBackground":  "#45b5f3",
+        "debugConsole.warningForeground": "#FCE205",
+        "debugConsole.errorForeground": "#ea3333",
+        
+
+    //     "statusBar.background": "#45b5f3",
+    //     "statusBar.foreground": "#ffffff",
+    //     "statusBar.noFolderBackground": "#0492c2",
+    //     "workbench.colorTheme": "SynthWave '84",
+    //     "editorCursor.background": "#000000",   
+    //     "editorCursor.foreground": "#45b5f3",
+      
+        
+
+    //     "activityBar.background": "#fc4c4e",
+    //     "activityBar.foreground": "#000000",
+    //    "activityBarBadge.background": "#45b5f3",
+    //     "activityBar.activeBackground": "#ffffff",
+    //     "activityBar.activeBorder": "#000000",
+    //     "activityBarBadge.foreground": "#ffffff",
+    //     "activityBar.inactiveForeground": "#000000",
+
+    },
+
+    
+    "editor.tokenColorCustomizations": {
+        "[One Dark Pro]": {
+            "comments": "#229977"
+        }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    "git.autofetch": true,
+    "editor.fontFamily": "Operator SSm Medium",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 16,
+
+    
+    "workbench.activityBar.visible": true,
+    "editor.suggestSelection": "first",
+    
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "window.zoomLevel": 0,
+    "files.autoSave": "afterDelay",
+    
+    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "editor.columnSelection": false,
+    "dart.openDevTools": "flutter",
+    "editor.cursorBlinking": "expand",
+    "editor.cursorWidth": 10,
+    "editor.cursorStyle": "block-outline",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.minimap.enabled": false,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.autorefresh": false,
+    "editor.renderIndentGuides": true,
+    "gitlens.views.repositories.autoRefresh": false,
+    "dart.debugExternalLibraries": false,
+    "dart.debugSdkLibraries": false,
+    "dart.warnWhenEditingFilesOutsideWorkspace": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "Monokai Classic Icons",
+    "dart.previewFlutterUiGuidesCustomTracking": true,
+    "dart.previewFlutterUiGuides": true
+    
+    
+    
+    
+
+
+
+}
